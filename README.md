@@ -32,18 +32,21 @@ MENU APOS FAZER O LOGIN
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 IMAGENS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![abacaxi2](https://github.com/vitoriaBa/loginPizzaa_V/assets/127052744/176304c3-9c56-4ba4-8232-caffbef1a985)
 
 ![logooo](https://github.com/vitoriaBa/loginPizzaa_V/assets/127052744/51bfdb6a-484b-4646-86dd-51105c278a3e)
