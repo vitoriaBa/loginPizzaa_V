@@ -32,16 +32,6 @@ MENU APOS FAZER O LOGIN
 
 
 
-IMAGENS
-
-
-
-
-
-
-
-
-
 
 
 
