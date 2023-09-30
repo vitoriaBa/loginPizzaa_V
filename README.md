@@ -1,12 +1,9 @@
-# Sample Snack app
+loginPizzaa_V
+UM APP DE UMA PIZZARIA 
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+TELA DE INICIO PARA FAZER O LOGIN
+![tela](https://github.com/vitoriaBa/loginPizzaa_V/assets/127052744/58407be4-7517-4862-9bd1-15a82a8f9406)
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
-# loginPizzaa_V
+MENU APOS FAZER O LOGIN
+![menu](https://github.com/vitoriaBa/loginPizzaa_V/assets/127052744/e34b0abe-f5e8-4ef3-91a2-dd75ecbbcc9c)
